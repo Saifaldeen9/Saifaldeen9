@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saifaldeen9
-- 👀 I’m interested in ... PHP developments Applications 
+- 👀 I’m interested in ... PHP Applications Development 
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... PHP or C project
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... PHP or C Project
+- 📫 How to reach me ... sun.dev@hotmail.com
 
 <!---
 Saifaldeen9/Saifaldeen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
