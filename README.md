@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saifaldeen9
-- 👀 I’m working in ... PHP Applications Development 
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... PHP or C Project
+- 👀 I’m working in ...  Applications Development 
+- 🌱 I’m currently learning ... C++ & Swift
+- 💞️ I’m looking to collaborate on ... Java, Kotlin or C Project
 - 📫 How to reach me ... sun.dev@hotmail.com
 
 <!---
